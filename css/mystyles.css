@@ -1,0 +1,85 @@
+body{
+    background-size: 100%;
+    background-image: url(../assets/oldcity.JPG);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    
+}
+.tableaustyle{
+    display:block;
+    margin: auto;
+    
+}
+/* ol{
+    background-color:cornsilk;
+    opacity: 60%;
+} */
+h1{
+    background-color: black;
+    color: aliceblue;
+    
+}
+img{
+    width: 25%;
+    float: inline-start;
+    position:sticky;
+}
+.header{
+    
+    text-align: center;
+    margin: 0;
+    font-size:xx-large;
+    top: 0px;
+    display: block;
+    margin: auto;
+    background-color:beige;
+    opacity: 70%;
+}
+.footer{
+    position: fixed;
+    margin: auto;
+    bottom: 0px;
+    font-size: medium;
+    background-color: aliceblue;
+    float: left;
+}
+.mainstuff{
+    position: absolute;
+    top: 250px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    background-color: beige;
+    opacity: 60%;
+    float: left;
+
+    padding:0;
+    width: 45%;
+}
+.youtube{
+    float: left;
+}
+.phototext{
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    background-color: beige;
+    opacity: 70%;
+    padding: 0;
+}
+.backgrounddescription{
+    float:right;
+    width: 30%;
+    background-color: beige;
+    opacity: 70%;
+}
+.bottom{
+    position: fixed;
+    margin: auto;
+    bottom: 0px;
+    font-size: medium;
+    background-color:beige;
+    float: left;
+}
+
